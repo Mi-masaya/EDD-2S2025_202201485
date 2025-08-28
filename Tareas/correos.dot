@@ -1,0 +1,17 @@
+digraph G { rankdir=LR; node [shape=record];
+U1 [label="Usuario: Luis Garcia\nId: 1"];
+C101 [label="Id: 101 | Bienvenido Luis"];
+U1 -> C101;
+C101 -> C102;
+C102 -> C101 [dir=back];
+C102 [label="Id: 102 | Promociones del mes"];
+U2 [label="Usuario: Marcos Itzep\nId: 2"];
+C201 [label="Id: 201 | Resumen semanal"];
+U2 -> C201;
+C201 -> C202;
+C202 -> C201 [dir=back];
+C202 [label="Id: 202 | Actualización de seguridad"];
+C202 -> C203;
+C203 -> C202 [dir=back];
+C203 [label="Id: 203 | Invitación a webinar"];
+}

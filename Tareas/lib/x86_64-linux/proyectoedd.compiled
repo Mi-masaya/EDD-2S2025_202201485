@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
+  <Params Value="-MObjFPC -Scghi -Cg -O1 -gw2 -gl -l -vewnhibq -Fi/home/edd/EDD-2S2025_202201485/Tareas/lib/x86_64-linux -Fu/home/edd/EDD-2S2025_202201485/Tareas/ -FU/home/edd/EDD-2S2025_202201485/Tareas/lib/x86_64-linux/ -FE/home/edd/EDD-2S2025_202201485/Tareas/ -o/home/edd/EDD-2S2025_202201485/Tareas/proyectoedd proyectoedd.lpr"/>
+</CONFIG>

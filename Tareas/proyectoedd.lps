@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proyectoedd.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="5" Y="25"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="usuarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="23" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="correos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="19"/>
+        <CursorPos X="5" Y="52"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="63"/>
+        <CursorPos X="37" Y="80"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="12" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="6" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="20" Column="73"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="27" Column="76" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="62" Column="76" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="27" Column="91" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="62" Column="91" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="106" Column="66" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="31" Column="50" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="79" Column="40" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="31" Column="40" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="79" Column="40" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="18" Column="62"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="31" Column="40" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="79" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="31" Column="36" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="79" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="20" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="26" Column="57"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="21" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="26" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="21" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="18" Column="62"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="32" Column="37" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="80" Column="37" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="8" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="11" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoedd.lpr"/>
+        <Caret Line="25"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="8" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="80" Column="37" TopLine="63"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
